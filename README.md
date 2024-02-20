@@ -32,33 +32,33 @@ JavaScript: While not mandatory, knowledge of JavaScript and AJAX can enhance st
 
 ## 🛠 What's Inside?
 
-**Hands-On Projects: Include a series of practical projects throughout the course that gradually increase in complexity. These projects should reflect real-world scenarios and demonstrate the application of Django concepts.**
+**Hands-On Projects:** Include a series of practical projects throughout the course that gradually increase in complexity. These projects should reflect real-world scenarios and demonstrate the application of Django concepts.
 
-**Comprehensive Curriculum: Cover a wide range of Django topics, from the basics to advanced features, ensuring that students gain a deep understanding of the framework. Include topics like authentication, database management, RESTful APIs, and more.**
+**Comprehensive Curriculum:** Cover a wide range of Django topics, from the basics to advanced features, ensuring that students gain a deep understanding of the framework. Include topics like authentication, database management, RESTful APIs, and more.
 
-**Video Tutorials: Create engaging video tutorials that walk students through each concept and project step by step. Visual explanations can greatly enhance comprehension.**
+**Video Tutorials:** Create engaging video tutorials that walk students through each concept and project step by step. Visual explanations can greatly enhance comprehension.
 
-**Interactive Coding Exercises: Provide coding exercises and challenges after each section or module to reinforce learning. Encourage students to apply what they've learned independently.**
+**Interactive Coding Exercises:** Provide coding exercises and challenges after each section or module to reinforce learning. Encourage students to apply what they've learned independently.**
 
-**Quizzes and Assessments: Include quizzes and assessments at the end of each module or topic to evaluate students' understanding and retention of key concepts.**
+**Quizzes and Assessments:** Include quizzes and assessments at the end of each module or topic to evaluate students' understanding and retention of key concepts.
 
-**Real-World Examples: Share real-world examples of Django applications and showcase success stories of Django-powered projects to inspire students.**
+**Real-World Examples:** Share real-world examples of Django applications and showcase success stories of Django-powered projects to inspire students.
 
-**Live Q&A Sessions: Host regular live Q&A sessions or webinars where students can ask questions, seek clarification, and interact with instructors and fellow learners.**
+**Live Q&A Sessions:** Host regular live Q&A sessions or webinars where students can ask questions, seek clarification, and interact with instructors and fellow learners.
 
-**Coding Challenges and Hackathons: Organize coding challenges or mini-hackathons to encourage students to apply their skills in a competitive and fun environment.**
+**Coding Challenges and Hackathons:** Organize coding challenges or mini-hackathons to encourage students to apply their skills in a competitive and fun environment.
 
-**Practical Deployment: Teach students how to deploy their Django applications to popular hosting platforms like Heroku, AWS, or DigitalOcean. Walk them through the entire deployment process.**
+**Practical Deployment:** Teach students how to deploy their Django applications to popular hosting platforms like Heroku, AWS, or DigitalOcean. Walk them through the entire deployment process.
 
-**Version Control with Git: Include Git tutorials and emphasize the importance of version control for collaborative development.**
+**Version Control with Git:** Include Git tutorials and emphasize the importance of version control for collaborative development.
 
-**Responsive Design: Teach responsive web design techniques to ensure that students' Django projects are accessible on various devices and screen sizes.**
+**Responsive Design:** Teach responsive web design techniques to ensure that students' Django projects are accessible on various devices and screen sizes.
 
-**Security Best Practices: Cover Django security features and best practices to help students develop secure applications and protect against common web vulnerabilities.**
+**Security Best Practices:** Cover Django security features and best practices to help students develop secure applications and protect against common web vulnerabilities.
 
-**Lifetime Access: Provide lifetime access to course materials and updates, allowing students to revisit the content and stay current with Django developments.**
+**Lifetime Access:** Provide lifetime access to course materials and updates, allowing students to revisit the content and stay current with Django developments.
 
-**Certificates of Completion: Offer certificates to students who successfully complete the course, which can add value to their resumes and portfolios.**
+**Certificates of Completion:** Offer certificates to students who successfully complete the course, which can add value to their resumes and portfolios.
 
 
 
